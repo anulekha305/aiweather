@@ -21,3 +21,9 @@ A simple, responsive weather web application that shows real-time weather of you
 - Vanilla JavaScript
 - OpenWeatherMap API
 - Netlify (for deployment)
+## 🛠️ How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ai-weather-app.git
+   cd ai-weather-app
